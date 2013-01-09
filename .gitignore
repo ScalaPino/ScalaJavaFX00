@@ -2,7 +2,6 @@
 ## Eclipse
 
 *.pydevproject
-.project
 .metadata
 bin/
 tmp/
@@ -49,6 +48,6 @@ project/plugins/project/
 .scala_dependencies
 .cache
 /.cache
-
-
+/.worksheet
+.worksheet
 
